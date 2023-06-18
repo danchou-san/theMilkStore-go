@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.navbar-brand {
+  margin: 0;
+  font-family: 'Lexend', sans-serif;
+  color: #CE8BA2;
+  font-size: 50px;
+  letter-spacing: 10px;
+}
